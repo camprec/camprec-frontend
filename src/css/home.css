@@ -1,0 +1,172 @@
+.home{
+    display: flex;
+    height: 600px;
+}
+.get_started{
+    align-content: center;
+    margin-right: 15em;
+    padding-right: 2em;
+    margin-top:5em;
+}
+.brand-name{
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #565387;
+}
+#join-us {
+    height: 750px;
+    color: #565387;
+       
+} 
+.student{
+    height: 200px;
+    width: 350px;
+}
+.company{
+    height: 200px;
+    width: 200px;
+}
+.logos{
+    margin-left: 5% !important; 
+}
+.pop{
+    display: flex;
+}
+.login_img{
+    height: 150px;
+    width: auto;
+}
+.form_model{
+    border-radius: 25px;
+}
+.margin_right{
+    margin-right: 70%;
+}
+.vediosize{
+    height: 65% !important;
+    width: 100% !important;
+}
+.profile_img{
+    height: 200px !important;
+    width: 200px !important;
+    margin-left:165px;
+    border-radius: 200px;
+}
+.profile_width{
+    text-justify: auto;
+
+}
+.margin-top{
+    margin: 1.5em;
+    
+}
+.card2{
+    width:100%;
+    margin-left: 3em;
+}
+.fsize{
+    font-size: 1.5rem;
+}
+
+.fsize2{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.cb{
+    margin-top: 100px;
+    
+}
+.cb2{
+    margin-left: 300px;
+    margin-bottom: 100px;
+}
+
+.left{
+    margin-right: 30px;
+}
+
+.details{
+    margin-left: -150px;
+}
+.profile_img2{
+    height: 200px !important;
+    width: 200px !important;
+    margin-left:165px;
+    
+}
+.marginb{
+    margin-bottom: 4em;
+}
+.addheight{
+    height: 100px;
+    width:100px;
+    margin-top: 40px;
+    margin-left: 40px;
+    color: #565387;
+}
+.card3{
+    width:100%;
+}
+.addjb{
+    width:60%;
+    text-align: center;
+    margin: auto;
+}
+.margin-top{
+    margin-top: 50px;
+}
+.size2{
+    font-size: 0.8em;
+}
+.tab{
+    margin-left: 100px;
+    margin-right: 25px;
+    width: 80%;
+    
+}
+.boderb{
+    border-top: 0px !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    width:80% !important;
+}
+.mart{
+    margin-top: 10%;
+    display:block;
+}
+.m-l{
+    margin-left: 20%;
+    margin-bottom: 1px ;
+}
+.m-l3{
+    margin-left: 40%;
+    padding-bottom: 10px ;
+}
+.m-l2{
+    margin-left: 30%;
+}
+.boderb1{
+    border-bottom: 1px !important;
+}
+.hfixed{
+    height: 65px;
+    overflow:hidden;
+}
+.m_t{
+    margin-top: -1px !important;
+}
+.vis{
+    visibility: hidden;
+}
+.fonts{
+    font-size: 12px  !important;
+}
+.load{
+    margin-left: 700px;
+    margin-top: 220px;
+    height:600px;
+}
+.hfixed2{
+    height:25px;
+    overflow: hidden;
+}

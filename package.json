@@ -1,0 +1,64 @@
+{
+  "name": "camprec",
+  "homepage": "http://yasharth291.github.io/camprec",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@stripe/react-stripe-js": "^1.4.0",
+    "@stripe/stripe-js": "^1.13.2",
+    "@testing-library/jest-dom": "^5.12.0",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "antd": "^4.15.3",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.0-beta3",
+    "concurrently": "^6.0.2",
+    "draft.js": "^0.2.0",
+    "emailjs-com": "^2.6.4",
+    "fetch": "^1.1.0",
+    "gh-pages": "^3.1.0",
+    "history": "^5.0.0",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-awesome-spinners": "^1.3.1",
+    "react-bootstrap": "^1.5.2",
+    "react-cookie": "^4.0.3",
+    "react-countup": "^4.3.3",
+    "react-dom": "^17.0.2",
+    "react-ga": "^3.3.0",
+    "react-icons": "^4.2.0",
+    "react-loading": "^2.0.3",
+    "react-player": "^2.9.0",
+    "react-popup": "^0.10.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.2",
+    "reactjs-popup": "^2.0.4",
+    "styled-components": "^5.2.3",
+    "universal-cookie": "^4.0.4",
+    "web-vitals": "^1.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
