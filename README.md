@@ -1,12 +1,4 @@
-#  This project is contributed by 
-# 1.SOURAV BHAGAT(19BCS103)
-# 2.SHRESTH BHARADIA(19BCS103)
-# 3.AFFEF HASAN(19BCS106)
-# 4.YASHARTH DUBEY(19BCS114)
-# 5.KRISHNA SUTRAVE(19BCS105)
 
-
-######
 <h1>Founded in 2021</h1> CAMPREC is the pioneer of organized recruitment services in India. Over a few months, we have acted as preferred talent acquisition partners to multinationals , leading Indian businesses and aspiring students to emerge as the leading talent solutions provider in India. This combined with our role as trusted consultants for Indian professionals translates into our core capability - Building Careers. Building Organisations.
 CAMPREC’s roots in management consulting bring a unique approach to recruitment at senior and middle management levels .
 We helped in the recruitment  across various industry sectors for multinational corporations ,leading Indian business houses as well as thousands of colleges  and have helped shaped the careers of over 65,000 professionals and aspiring students in our 3 months of history.
